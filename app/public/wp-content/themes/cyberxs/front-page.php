@@ -266,28 +266,28 @@
                     Threat Detection & Intelligence
                   </a>
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(44); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
                     Application & Data Security
                   </a>
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(46); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
                    Offensive Security & Red Teaming
                   </a>
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(48); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
                     Secure Access & Identity
                   </a>
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(50); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
@@ -330,7 +330,7 @@
                 </div>
                 <div class="solution-card__content">
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(52); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
@@ -372,14 +372,14 @@
                 </div>
                 <div class="solution-card__content">
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(54); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
                     Governance, Risk & Compliance
                   </a>
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(56); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >
@@ -1276,7 +1276,7 @@
           <div class="container section-partnership__container animated-fade">
             <div class="section-partnership__content">
               <canvas class="animated-line section-partnership__wave"></canvas>
-              <div class="heading section-partnership__heading">
+              <div class="heading section-partnership__heading" style="font-size: medium;">
                 Evaluate the benefits of the solutions personally!
               </div>
               <div class="section-partnership__text">
