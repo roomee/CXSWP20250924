@@ -1177,17 +1177,17 @@
 
     <script
       type="text/javascript"
-      src="wp-content/themes/brainlab/public/script/common.229e1504360e76edc089.bundlead05.js?ver=1.4"
+      src="/wp-content/themes/cyberxs/public/script/common.229e1504360e76edc089.bundlead05.js?ver=1.4"
       id="common-js-js"
     ></script>
     <script
       type="text/javascript"
-      src="wp-content/themes/brainlab/public/script/selectfix.cdecd02c201cb1e1edab.bundlead05.js?ver=1.4"
+      src="/wp-content/themes/cyberxs/public/script/selectfix.cdecd02c201cb1e1edab.bundlead05.js?ver=1.4"
       id="selectfix-js-js"
     ></script>
     <script
       type="text/javascript"
-      src="wp-content/themes/brainlab/public/script/home.c3df1581231c161e7e6c.bundlead05.js?ver=1.4"
+      src="/wp-content/themes/cyberxs/public/script/home.c3df1581231c161e7e6c.bundlead05.js?ver=1.4"
       id="home-js"
     ></script>
 

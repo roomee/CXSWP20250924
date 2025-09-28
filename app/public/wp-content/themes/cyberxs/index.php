@@ -1,17 +1,62 @@
   
 <?php get_header(); ?>
-<main>
-  <div class="container">
+<main class="content">
+ 
     <?php
       if ( have_posts() ) :
+        
         while ( have_posts() ) : the_post();
-          echo '<h1 class="page-title">' . get_the_title() . '</h1>';
+          echo '
+
+
+
+           <div class="container breadcrumbs-container animation-trigger animation-start">
+  <div class="breadcrumbs animated-fade">
+    <a class="breadcrumbs__link" href="/" data-wpel-link="internal"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">
+      Home    </font></font></a>
+            
+    <span class="breadcrumbs__link breadcrumbs__link--active"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">
+      '. get_the_title() . '   </font></font></span>
+  </div>
+</div>
+
+	  <section class="calendar-section">
+      <picture>
+        <source media="(max-width: 1440px)" sizes="(max-width: 1440px) 100vw" srcset="/wp-content/themes/cyberxs/public/image/manufacturer/wave-bg-laptop.webp">
+        <img src="/wp-content/themes/cyberxs/public/image/manufacturer/wave-bg.webp" alt="Calendar- image 1" class="page-calendar__circle-bg">
+    </picture>
+    <div class="container">
+
+
+
+
+<div class="page-calendar__header">
+            <h1 class="heading heading--h2 page-calendar__heading"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">
+            '. get_the_title() . '
+            </font></font></h1>
+        </div>
+
+        <div id="calendar-main-wrapper">
+'
+;
+
+
+       
           the_content();
-        endwhile;
+        echo ' </div><p></p>
+        
+        
+           </div>
+	  </section>
+    
+    ';
+                endwhile;
       else :
-        echo '<p>No content found</p>';
+        echo '<p></p><p>No content found</p><p></p>';
       endif;
     ?>
-  </div>
+ 
+  
 </main>
+<div id="toast-container" class="toast-container"></div>
 <?php get_footer(); ?>
