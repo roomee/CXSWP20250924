@@ -21,11 +21,13 @@
 </div>
 
 	  <section class="calendar-section">
+    
+    <canvas class="animated-line section-intro-description__wave animated-fade" width="1366" height="100" style="height: 100px;"></canvas>
+    
       <picture>
         <source media="(max-width: 1440px)" sizes="(max-width: 1440px) 100vw" srcset="/wp-content/themes/cyberxs/public/image/manufacturer/wave-bg-laptop.webp">
         <img src="/wp-content/themes/cyberxs/public/image/manufacturer/wave-bg.webp" alt="Calendar- image 1" class="page-calendar__circle-bg">
-    </picture>
-    <div class="container">
+    </picture><div class="container">
 
 
 

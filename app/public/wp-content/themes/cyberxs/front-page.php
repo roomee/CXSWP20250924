@@ -58,12 +58,12 @@
                 autoplay
                 loop
                 class="intro-slider__background"
-                src="/wp-content/uploads/2025/09/cover_video.mp4"
+                src="/wp-content/themes/cyberxs/public/image/cover_video.mp4"
               ></video>
 
               <div class="intro-slider__content">
                 <div class="title_wrapper">
-                  <h1 class="heading heading--h1 intro-slider__heading">
+                  <h1 class="heading heading--h1 intro-slider__heading" style="color: white;">
                     Gateway to <br />Next-Gen<br /> Cybersecurity &<br /> Forensics
 
                   </h1>
@@ -85,7 +85,7 @@
 </style>
                   <div class="btn-group">
                   <a
-                    href="partners/index.html"
+                    href="<?php echo get_permalink(61); ?>"
                     class="button button--default intro-slider__button"
                     data-wpel-link="internal"
                   >
@@ -229,7 +229,7 @@
         <div
           class="section-solution__circle-bg-box"
           style="
-            background-image: url('wp-content/themes/brainlab/public/image/solution-cards/circle-bg.webp');
+            background-image: url('/wp-content/themes/cyberxs/public/image/solution-cards/circle-bg.webp');
           "
         ></div>
         <div class="container section-solution__container animation-trigger">
@@ -249,7 +249,7 @@
             >
               <div class="solution-card__inner">
                 <img
-                  src="wp-content/themes/brainlab/public/image/solution-cards/sphere-bg.webp"
+                  src="/wp-content/themes/cyberxs/public/image/solution-cards/sphere-bg.webp"
                   alt="Головна- image 3"
                   class="solution-card__sphere"
                   loading="lazy"
@@ -320,7 +320,7 @@
             >
               <div class="solution-card__inner">
                 <img
-                  src="wp-content/themes/brainlab/public/image/solution-cards/sphere-bg.webp"
+                  src="/wp-content/themes/cyberxs/public/image/solution-cards/sphere-bg.webp"
                   alt="Головна- image 3"
                   class="solution-card__sphere"
                   loading="lazy"
@@ -362,7 +362,7 @@
             >
               <div class="solution-card__inner">
                 <img
-                  src="wp-content/themes/brainlab/public/image/solution-cards/sphere-bg.webp"
+                  src="/wp-content/themes/cyberxs/public/image/solution-cards/sphere-bg.webp"
                   alt="Головна- image 3"
                   class="solution-card__sphere"
                   loading="lazy"
@@ -409,7 +409,7 @@
 
       <section class="section section-partners animation-trigger">
         <img
-          src="wp-content/themes/brainlab/public/image/partners/circle-bg.webp"
+          src="/wp-content/themes/cyberxs/public/image/partners/circle-bg.webp"
           alt="Головна- image 5"
           class="section-partners__circle-bg"
           loading="lazy"
@@ -431,7 +431,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Barramundi.png"
+                  src="/wp-content/uploads/vendor-logos/Barramundi.png"
                   alt="Barramundi"
                   class="section-partners__image"
                   width="242"
@@ -447,7 +447,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/CobaltStrike.png"
+                  src="/wp-content/uploads/vendor-logos/CobaltStrike.png"
                   alt="CobaltStrike"
                   class="section-partners__image"
                   width="242"
@@ -463,7 +463,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/CoreImpact.png"
+                  src="/wp-content/uploads/vendor-logos/CoreImpact.png"
                   alt="CoreImpact.png"
                   class="section-partners__image"
                   width="242"
@@ -479,7 +479,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/CybeleSoft.png"
+                  src="/wp-content/uploads/vendor-logos/CybeleSoft.png"
                   alt="CybeleSoft"
                   class="section-partners__image"
                   width="242"
@@ -495,7 +495,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Diligent.png"
+                  src="/wp-content/uploads/vendor-logos/Diligent.png"
                   alt="Diligent"
                   class="section-partners__image"
                   width="242"
@@ -511,7 +511,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Exterro-FTK.png"
+                  src="/wp-content/uploads/vendor-logos/Exterro-FTK.png"
                   alt="Exterro-FTK"
                   class="section-partners__image"
                   width="242"
@@ -527,7 +527,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Fortra.png"
+                  src="/wp-content/uploads/vendor-logos/Fortra.png"
                   alt="Fortra"
                   class="section-partners__image"
                   width="242"
@@ -543,7 +543,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/GMDSOFT.png"
+                  src="/wp-content/uploads/vendor-logos/GMDSOFT.png"
                   alt="GMDSOFT"
                   class="section-partners__image"
                   width="242"
@@ -559,7 +559,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/greycortex.png"
+                  src="/wp-content/uploads/vendor-logos/greycortex.png"
                   alt="greycortex"
                   class="section-partners__image"
                   width="242"
@@ -575,7 +575,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Invicti.png"
+                  src="/wp-content/uploads/vendor-logos/Invicti.png"
                   alt="Invicti"
                   class="section-partners__image"
                   width="242"
@@ -591,7 +591,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/jscrambler.png"
+                  src="/wp-content/uploads/vendor-logos/jscrambler.png"
                   alt="jscrambler"
                   class="section-partners__image"
                   width="242"
@@ -607,7 +607,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Logsign.png"
+                  src="/wp-content/uploads/vendor-logos/Logsign.png"
                   alt="Logsign"
                   class="section-partners__image"
                   width="242"
@@ -623,7 +623,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/MobilEdit.png"
+                  src="/wp-content/uploads/vendor-logos/MobilEdit.png"
                   alt="MobilEdit"
                   class="section-partners__image"
                   width="242"
@@ -639,7 +639,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/gtb-technologies.png"
+                  src="/wp-content/uploads/vendor-logos/gtb-technologies.png"
                   alt="GTB technologies"
                   class="section-partners__image"
                   width="242"
@@ -655,7 +655,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/outflank.png"
+                  src="/wp-content/uploads/vendor-logos/outflank.png"
                   alt="outflank"
                   class="section-partners__image"
                   width="242"
@@ -671,7 +671,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/PlexTrac.png"
+                  src="/wp-content/uploads/vendor-logos/PlexTrac.png"
                   alt="PlexTrac"
                   class="section-partners__image"
                   width="242"
@@ -687,7 +687,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/PortSwigger.png"
+                  src="/wp-content/uploads/vendor-logos/PortSwigger.png"
                   alt="PortSwigger"
                   class="section-partners__image"
                   width="242"
@@ -703,7 +703,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Gatewatcher.png"
+                  src="/wp-content/uploads/vendor-logos/Gatewatcher.png"
                   alt="Gatewatcher"
                   class="section-partners__image"
                   width="242"
@@ -719,7 +719,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/prodaft.png"
+                  src="/wp-content/uploads/vendor-logos/prodaft.png"
                   alt="prodaft"
                   class="section-partners__image"
                   width="242"
@@ -735,7 +735,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/quokka.png"
+                  src="/wp-content/uploads/vendor-logos/quokka.png"
                   alt="quokka"
                   class="section-partners__image"
                   width="242"
@@ -751,7 +751,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/Segura.security.png"
+                  src="/wp-content/uploads/vendor-logos/Segura.security.png"
                   alt="Segura.security"
                   class="section-partners__image"
                   width="242"
@@ -767,7 +767,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/sociallinks.png"
+                  src="/wp-content/uploads/vendor-logos/sociallinks.png"
                   alt="sociallinks"
                   class="section-partners__image"
                   width="242"
@@ -783,7 +783,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/SUMURI.png"
+                  src="/wp-content/uploads/vendor-logos/SUMURI.png"
                   alt="SUMURI"
                   class="section-partners__image"
                   width="242"
@@ -799,7 +799,7 @@
             >
               <div class="section-partners__image-box">
                 <img
-                  src="assets/vendor-logos/verimatrix.png"
+                  src="/wp-content/uploads/vendor-logos/verimatrix.png"
                   alt="verimatrix"
                   class="section-partners__image"
                   width="242"

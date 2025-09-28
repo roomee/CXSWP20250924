@@ -135,7 +135,7 @@
     />
     <meta
       name="msapplication-TileImage"
-      content="https://iitd.ua/wp-content/uploads/2024/11/cropped-fav-2-270x270.png"
+      content="/wp-content/uploads/2024/11/cropped-fav-2-270x270.png"
     />
     <script type="application/ld+json">
       {
@@ -176,7 +176,7 @@
 
         <a href="<?php echo esc_url(home_url('/')); ?>" class="header__logo" data-wpel-link="internal">
           <img
-            src="/wp-content/uploads/2025/09/logo-300x98.jpg"
+            src="/wp-content/themes/cyberxs/public/image/logo-300x98.jpg"
             alt="Cyberxs Logotype"
             class="header__logo-image"
             width="262"
@@ -544,7 +544,7 @@
 
         <div class="mobile-menu__buttons">
           <a
-            href="<?php echo get_permalink(19); ?>"
+            href="<?php echo get_permalink(21); ?>"
             class="mobile-menu__button mobile-menu__events"
             data-wpel-link="internal"
           >
