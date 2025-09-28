@@ -46,7 +46,7 @@
     </header>
 
     <main class="content">
-      <div class="section-intro animation-trigger" style="">
+      <div class="section-intro animation-trigger">
         <div id="intro-slider" class="swiper intro-slider">
           <!-- Additional required wrapper -->
           <div class="swiper-wrapper">
@@ -259,7 +259,7 @@
                 </div>
                 <div class="solution-card__content">
                   <a
-                    href="#"
+                    href="<?php echo get_permalink(38); ?>"
                     class="solution-card__item"
                     data-wpel-link="internal"
                   >

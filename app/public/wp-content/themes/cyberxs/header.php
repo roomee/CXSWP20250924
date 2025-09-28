@@ -225,38 +225,23 @@
                     >Cybersecurity</span
                   >
                   <nav class="header-dropdown__nav">
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(38); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Threat Detection & Intelligence
                     </a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(44); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Application & Data Security
                     </a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(46); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Offensive Security & Red Teaming
                     </a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(48); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Secure Access & Identity
                     </a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(50); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       SIEM & SOC Enablement
                     </a>
@@ -270,9 +255,7 @@
 
                  
                    <a 
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                      href="<?php echo get_permalink(52); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Digital Forensics & Investigations
                     </a>
@@ -284,17 +267,11 @@
                     >IT & Infrastructure</span
                   >
                   <nav class="header-dropdown__nav">
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(54); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Governance, Risk & Compliance
                     </a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
+                    <a href="<?php echo get_permalink(56); ?>" class="header-dropdown__link" data-wpel-link="internal"
                     >
                       Secure File Transfer & Data Movement
                     </a>
@@ -305,6 +282,8 @@
             <div class="header-dropdown__backdrop"></div>
           </div>
 
+
+          <!--  -->
           <div class="header-nav__link header-dropdown">
             <span class="header-dropdown__text">
               Vendors
@@ -326,164 +305,41 @@
                 <div class="header-dropdown__section">
                   <span class="header-dropdown__heading">Cybersecurity Vendors</span>
                   <nav class="header-dropdown__nav">
-
-                  
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Prodaft</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Gatewatcher</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Social Links</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >GreyCortex</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Invicti (Acunetix & Netsparker)
-</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >PortSwigger</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >GTB Technologies</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Jscrambler</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Verimatrix</a
-                    >
-                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Quokka.io</a>
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Core Impact</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-l ink="internal"
-                      >Cobalt Strike</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Outflank</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >PlexTrac</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Segura.security</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >CybeleSoft</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Logsign</a
-                    >
+                    <a href="<?php echo get_permalink(79); ?>" class="header-dropdown__link" data-wpel-link="internal" >Prodaft</a>
+                    <a href="<?php echo get_permalink(81); ?>" class="header-dropdown__link" data-wpel-link="internal" >Gatewatcher</a>
+                    <a href="<?php echo get_permalink(83); ?>" class="header-dropdown__link" data-wpel-link="internal" >Social Links</a>
+                    <a href="<?php echo get_permalink(85); ?>" class="header-dropdown__link" data-wpel-link="internal" >GreyCortex</a>
+                    <a href="<?php echo get_permalink(87); ?>" class="header-dropdown__link" data-wpel-link="internal" >Invicti (Acunetix & Netsparker)</a>
+                    <a href="<?php echo get_permalink(89); ?>" class="header-dropdown__link" data-wpel-link="internal" >PortSwigger</a>
+                    <a href="<?php echo get_permalink(91); ?>" class="header-dropdown__link" data-wpel-link="internal" >GTB Technologies</a>
+                    <a href="<?php echo get_permalink(93); ?>" class="header-dropdown__link" data-wpel-link="internal" >Jscrambler</a>
+                    <a href="<?php echo get_permalink(95); ?>" class="header-dropdown__link" data-wpel-link="internal" >Verimatrix</a>
+                    <a href="<?php echo get_permalink(155); ?>" class="header-dropdown__link" data-wpel-link="internal" >Quokka.io</a>
+                    <a href="<?php echo get_permalink(97); ?>" class="header-dropdown__link" data-wpel-link="internal" >Core Impact</a>
+                    <a href="<?php echo get_permalink(99); ?>" class="header-dropdown__link" data-wpel-link="internal" >Cobalt Strike</a>
+                    <a href="<?php echo get_permalink(101); ?>" class="header-dropdown__link" data-wpel-link="internal" >Outflank</a>
+                    <a href="<?php echo get_permalink(103); ?>" class="header-dropdown__link" data-wpel-link="internal" >PlexTrac</a>
+                    <a href="<?php echo get_permalink(105); ?>" class="header-dropdown__link" data-wpel-link="internal" >Segura.security</a>
+                    <a href="<?php echo get_permalink(107); ?>" class="header-dropdown__link" data-wpel-link="internal" >CybeleSoft</a>
+                    <a href="<?php echo get_permalink(109); ?>" class="header-dropdown__link" data-wpel-link="internal" >Logsign</a>
 </nav>
 </div>
                   <div class="header-dropdown__section">
                      <span class="header-dropdown__heading">Forensics Vendors</span>
-                  <nav class="header-dropdown__nav">
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Exterro (FTK)</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >SUMURI</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >GMDSOFT</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >MobilEdit</a
-                    >
-
-
-                  </nav>
+                    <nav class="header-dropdown__nav">
+                      <a href="<?php echo get_permalink(111); ?>" class="header-dropdown__link" data-wpel-link="internal" >Exterro (FTK)</a>
+                      <a href="<?php echo get_permalink(113); ?>" class="header-dropdown__link" data-wpel-link="internal" >SUMURI</a>
+                      <a href="<?php echo get_permalink(115); ?>" class="header-dropdown__link" data-wpel-link="internal" >GMDSOFT</a>
+                      <a href="<?php echo get_permalink(117); ?>" class="header-dropdown__link" data-wpel-link="internal" >MobilEdit</a>
+                    </nav>
                   </div>
                   <div class="header-dropdown__section">
                    <span class="header-dropdown__heading">IT & Infrastructure Vendors</span>
-                  <nav class="header-dropdown__nav">
-
-
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Diligent</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Barramundi</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Fortra (GoAnywhere MFT)</a
-                    >
-                   
-                  </nav>
+                    <nav class="header-dropdown__nav">
+                      <a href="<?php echo get_permalink(120); ?>" class="header-dropdown__link" data-wpel-link="internal" >Diligent</a>
+                      <a href="<?php echo get_permalink(122); ?>"  class="header-dropdown__link" data-wpel-link="internal" >Barramundi</a>
+                      <a href="<?php echo get_permalink(124); ?>"  class="header-dropdown__link" data-wpel-link="internal" >Fortra (GoAnywhere MFT)</a>
+                    </nav>
                   </div>
 
 
@@ -496,6 +352,9 @@
             </div>
             <div class="header-dropdown__backdrop"></div>
           </div>
+
+
+
 
           <div class="header-nav__link header-dropdown">
             <span class="header-dropdown__text">
@@ -518,36 +377,11 @@
                 <div class="header-dropdown__section">
                   <span class="header-dropdown__heading"></span>
                   <nav class="header-dropdown__nav">
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Whitepapers & eBooks</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Case Studies & Success Stories</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Webinars & Videos</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Analyst Mentions & Reports</a
-                    >
-                    <a
-                      href="#"
-                      class="header-dropdown__link"
-                      data-wpel-link="internal"
-                      >Guides & Datasheets </a
-                    >
+                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Whitepapers & eBooks</a>
+                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Case Studies & Success Stories</a>
+                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Webinars & Videos</a>
+                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Analyst Mentions & Reports</a>
+                    <a href="#" class="header-dropdown__link" data-wpel-link="internal" >Guides & Datasheets </a>
                   </nav>
                 </div>
               </div>
@@ -558,7 +392,7 @@
           <!-- <a href="#" class="header-nav__link" data-wpel-link="internal"
             >Vacancies</a > -->
           
-          <a href="#" class="header-nav__link" data-wpel-link="internal"
+          <a href="<?php echo get_permalink(19); ?>" class="header-nav__link" data-wpel-link="internal"
             >Contact</a
           >
         </nav>
@@ -609,7 +443,7 @@
         </div>
 
         <a
-          href="calendar.html"
+          href="<?php echo get_permalink(21); ?>"
           class="header__item header__events"
           data-wpel-link="internal"
         >
@@ -702,7 +536,7 @@
 
         <div class="mobile-menu__buttons">
           <a
-            href="calendar.html"
+            href="<?php echo get_permalink(19); ?>"
             class="mobile-menu__button mobile-menu__events"
             data-wpel-link="internal"
           >
@@ -764,35 +598,35 @@
 
               <div class="mobile-menu__subnav">
                 <a
-                  href="#"
+                  href="<?php echo get_permalink(38); ?>"
                   class="mobile-menu__nav-item"
                   data-wpel-link="internal"
                 >
                   Threat Detection & Intelligence
                 </a>
                 <a
-                  href="#"
+                  href="<?php echo get_permalink(44); ?>"
                   class="mobile-menu__nav-item"
                   data-wpel-link="internal"
                 >
                  Application & Data Security
                 </a>
                 <a
-                  href="#"
+                  href="<?php echo get_permalink(46); ?>"
                   class="mobile-menu__nav-item"
                   data-wpel-link="internal"
                 >
                   Offensive Security & Red Teaming
                 </a>
                 <a
-                  href="#"
+                  href="<?php echo get_permalink(48); ?>"
                   class="mobile-menu__nav-item"
                   data-wpel-link="internal"
                 >
                   Secure Access & Identity
                 </a>
                 <a
-                  href="#"
+                  href="<?php echo get_permalink(50); ?>"
                   class="mobile-menu__nav-item"
                   data-wpel-link="internal"
                 >
@@ -1044,7 +878,7 @@
             >Vacancies</a
           > -->
           <a
-            href="#"
+            href="<?php echo get_permalink(19); ?>"
             class="mobile-menu__nav-link"
             data-wpel-link="internal"
             >Contact</a

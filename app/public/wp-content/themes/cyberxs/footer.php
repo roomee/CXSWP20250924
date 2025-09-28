@@ -233,7 +233,7 @@
   <path d="M17.53 3H21.5L14.36 10.66L22.75 21H16.44L11.31 14.39L5.56 21H1.5L9.03 12.82L1 3H7.44L12.13 9.13L17.53 3ZM16.41 19.13H18.18L7.42 4.76H5.54L16.41 19.13Z" fill="currentColor"/>
 </svg>
 
-                X (Twitter)
+                 (Twitter)
                 </a>
 
                 <a
@@ -362,7 +362,7 @@
 
             <div class="footer__bottom-links">
               <a
-                href="privacy-policy"
+                href="<?php echo get_permalink(3); ?>"
                 class="footer__bottom-link"
                 data-wpel-link="internal"
               >
@@ -1202,7 +1202,7 @@
 </html>
 
 
-?>
+ 
 <?php wp_footer(); ?>
 </body>
 </html>
