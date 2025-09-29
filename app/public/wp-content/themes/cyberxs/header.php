@@ -155,7 +155,7 @@
 
 
 </head>
-<body <?php body_class(); ?> class="home page-template page-template-template_page page-template-home page-template-template_pagehome-php page page-id-5651 wp-custom-logo">
+<body data-country="pk" <?php body_class(); ?> class="home page-template page-template-template_page page-template-home page-template-template_pagehome-php page page-id-5651 wp-custom-logo">
 <?php
 // Paste your entire static header HTML here (from your previous header.php attachment)
 // Remove any duplicate <html>, <head>, <body> tags from your static HTML

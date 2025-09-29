@@ -321,7 +321,7 @@
               <div class="solution-card__inner">
                 <img
                   src="/wp-content/themes/cyberxs/public/image/solution-cards/sphere-bg.webp"
-                  alt="Головна- image 3"
+                  alt="Cyberxs- image 3"
                   class="solution-card__sphere"
                   loading="lazy"
                 />
@@ -354,16 +354,14 @@
               </div>
             </div>
        
-
-
-              <div
+                <div
               class="section-solution__card solution-card stacked-card"
               data-index="0"
             >
               <div class="solution-card__inner">
                 <img
                   src="/wp-content/themes/cyberxs/public/image/solution-cards/sphere-bg.webp"
-                  alt="Головна- image 3"
+                  alt="cyberxs image 3"
                   class="solution-card__sphere"
                   loading="lazy"
                 />
@@ -402,15 +400,22 @@
                 </div>
               </div>
             </div>
+
  
+         
+
+
+
+# 
           </div>
-        </div>
+$        </div>
+         @
       </section>
 
       <section class="section section-partners animation-trigger">
         <img
           src="/wp-content/themes/cyberxs/public/image/partners/circle-bg.webp"
-          alt="Головна- image 5"
+          alt="Cyberxs- image 5"
           class="section-partners__circle-bg"
           loading="lazy"
         />
@@ -999,7 +1004,7 @@
         <div class="section-about__trigger"></div>
       </section>
 
-      <!-- <section class="section section-news animation-trigger">
+       <section class="section section-news animation-trigger">
         <div class="container">
           <div class="section__header">
             <span class="section__subheading animated-subheading"> NEWS </span>
@@ -1256,7 +1261,7 @@
             ></div>
           </div>
         </div>
-      </section> -->
+      </section>  
 
       <div id="form-demo" class="section-partnership-box">
         <section class="section section-partnership animation-trigger">
@@ -1276,7 +1281,7 @@
           <div class="container section-partnership__container animated-fade">
             <div class="section-partnership__content">
               <canvas class="animated-line section-partnership__wave"></canvas>
-              <div class="heading section-partnership__heading" style="font-size: medium;">
+              <div class="heading section-partnership__heading" style="font-size: 12px;">
                 Evaluate the benefits of the solutions personally!
               </div>
               <div class="section-partnership__text">
@@ -1314,7 +1319,7 @@
                   type="text"
                   class="form__field required"
                   name="name"
-                  placeholder="Ваше Ім'я та Прізвище"
+                  placeholder="Your Full Name"
                 />
                 <span class="form__error-message"
                   >Please check your full name - it must be valid.</span
@@ -1336,7 +1341,7 @@
                   type="text"
                   class="form__field required"
                   name="position"
-                  placeholder="Посада"
+                  placeholder="Position"
                 />
                 <span class="form__error-message"
                   >Please check the job title - it must be valid.</span
@@ -1599,7 +1604,7 @@
                   type="submit"
                   class="button button--primary section-partnership__form-submit"
                 >
-                  Відправити
+                 submit
                   <svg
                     class="icon button__icon"
                     viewBox="0 0 24 24"

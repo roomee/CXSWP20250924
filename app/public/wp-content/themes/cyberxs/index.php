@@ -22,7 +22,6 @@
 
 	  <section class="calendar-section">
     
-    <canvas class="animated-line section-intro-description__wave animated-fade" width="1366" height="100" style="height: 100px;"></canvas>
     
       <picture>
         <source media="(max-width: 1440px)" sizes="(max-width: 1440px) 100vw" srcset="/wp-content/themes/cyberxs/public/image/manufacturer/wave-bg-laptop.webp">

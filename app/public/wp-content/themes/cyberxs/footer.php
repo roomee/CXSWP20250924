@@ -1175,6 +1175,13 @@
       data-src="https://challenges.cloudflare.com/turnstile/v0/api.js"
     ></script>
 
+   <script
+      class="lazy-js"
+      data-src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.19/js/utils.js"
+    ></script>
+
+
+
     <script
       type="text/javascript"
       src="/wp-content/themes/cyberxs/public/script/common.229e1504360e76edc089.bundlead05.js?ver=1.4"
